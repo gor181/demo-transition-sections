@@ -25,30 +25,6 @@ title: Instructor
 
 
 ---
-## Insert title here...
-
-```yaml
-type: FullSlide
-key: 1f6f992a8a
-```
-
-`@part1`
-1
-
-2
-
-3
-
-
-
-
-
-`@script`
-
-
-
-
----
 ## Final Slide
 
 ```yaml
